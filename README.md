@@ -1,6 +1,6 @@
 # [ICCV'25] IM-LUT: Interpolation Mixing Look-Up Tables for Image Super-Resolution
 ### [IM-LUT: Interpolation Mixing Look-Up Tables for Image Super-Resolution](https://arxiv.org/pdf/xxx)
-Sejin Park, Taehyung Lee, Kyong Hwan Jin, Seung-Won Jung, International Conference on Computer Vision (ICCV'25), Hawai'i, 2025
+Sejin Park, Sangmin Lee, Kyong Hwan Jin, Seung-Won Jung, International Conference on Computer Vision (ICCV'25), Hawai'i, 2025
 
 Our base code is from [LeRF](https://github.com/ddlee-cn/LeRF-PyTorch).
 
