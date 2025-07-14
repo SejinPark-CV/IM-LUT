@@ -19,5 +19,5 @@ https://github.com/user-attachments/assets/0e0090a5-1790-4caf-a83c-94faa343db18
 
 # Code Details
 ```
-Updating
+Updating...
 ```
