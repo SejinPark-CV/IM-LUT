@@ -1,4 +1,4 @@
-# [ICCV'25] IM-LUT: Interpolation Mixing Look-Up Tables for Image Super-Resolution
+ # [ICCV'25] IM-LUT: Interpolation Mixing Look-Up Tables for Image Super-Resolution
 ### [IM-LUT: Interpolation Mixing Look-Up Tables for Image Super-Resolution](https://arxiv.org/pdf/xxx)
 Sejin Park, Sangmin Lee, Kyong Hwan Jin, Seung-Won Jung, International Conference on Computer Vision (ICCV'25), Hawai'i, 2025
 
@@ -10,7 +10,10 @@ Super-resolution (SR) has been a pivotal task in image processing, aimed at enha
 
 <p align="center"><img src="https://github.com/user-attachments/assets/8fa8ca83-110f-415f-9128-2300ba67bbed"width="1000" height="500"/>
   
+
+https://github.com/user-attachments/assets/bbadc433-1e03-4de4-b673-c589cc4391ce
+
 # Code Details
-Updating... 
-
-
+```
+Updating
+```
