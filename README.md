@@ -5,6 +5,8 @@ Sejin Park, Sangmin Lee, Kyong Hwan Jin, Seung-Won Jung, International Conferenc
 Our base code is from [LeRF](https://github.com/ddlee-cn/LeRF-PyTorch).
 
 
+https://github.com/user-attachments/assets/0e0090a5-1790-4caf-a83c-94faa343db18
+
 
 # Abstract
 
@@ -14,7 +16,6 @@ Super-resolution (SR) has been a pivotal task in image processing, aimed at enha
 
 
 
-https://github.com/user-attachments/assets/0e0090a5-1790-4caf-a83c-94faa343db18
 
 
 # Code Details
